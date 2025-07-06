@@ -9,7 +9,7 @@ Aqui estão alguns dos projetos que desenvolvi!
 
 ---
 
-### 🔹 [Projeto de robótica](https://github.com/williamfurquim/Projeto-robotica)
+### 🔹 [Projeto de Robótica](https://github.com/williamfurquim/Projeto-robotica)
 > Um bloco de códigos com objetivo de controlar as saídas de uma máquina com ESP32 inclusa.
 🔗 [Acessar](https://github.com/williamfurquim/Projeto-robotica)
 
